@@ -36,6 +36,8 @@ O coração deste projeto está hospedado no Google NotebookLM, onde todos os do
 ---
 
 ## Prompts utilizados: 
+o que é DCD?
+
 Como aplicar o DCD para superar o medo de falhar?
 
 PROVAS PARA CONCURSOS 
