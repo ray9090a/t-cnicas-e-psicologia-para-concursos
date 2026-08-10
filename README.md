@@ -35,7 +35,12 @@ O coração deste projeto está hospedado no Google NotebookLM, onde todos os do
 
 ---
 
-## Prompts utilizados: Como aplicar o DCD para superar o medo de falhar? PROVAS PARA CONCURSOS DE QUE FORMA A PSICOLOGIA E A MOTIVAÇÃO PODEM POTENCIALIZAR O RESULTADO NA PREPARAÇÃO PARA CONCURSO PUBLICO, ALINHADO COM AS MELHORES TÉCNICAS DE ESTUDOS
+## Prompts utilizados: 
+Como aplicar o DCD para superar o medo de falhar?
+
+PROVAS PARA CONCURSOS 
+
+DE QUE FORMA A PSICOLOGIA E A MOTIVAÇÃO PODEM POTENCIALIZAR O RESULTADO NA PREPARAÇÃO PARA CONCURSO PUBLICO, ALINHADO COM AS MELHORES TÉCNICAS DE ESTUDOS?
 
 ---
 
@@ -43,47 +48,65 @@ O coração deste projeto está hospedado no Google NotebookLM, onde todos os do
 
 ## Para Síntese e Compreensão Inicial:
 "Com base em todas as fontes carregadas, crie um resumo executivo com os 5 pontos mais importantes."
+
 "Elabore um FAQ (Perguntas Frequentes) que responda às dúvidas mais prováveis que um iniciante teria sobre este assunto."
+
 "Identifique e explique as 3 principais conexões ou temas que se repetem entre as diferentes fontes."
 
 ## Para Análise Aprofundada e Estudo:
 "Atue como um tutor. Explique o conceito de [insira um termo específico] para um iniciante, usando analogias e exemplos práticos encontrados nas fontes."
+
 "Crie um guia de estudo estruturado, organizando as informações mais importantes em módulos. Inclua os principais pontos de cada módulo e 2 perguntas para autoavaliação."
+
 "Elabore uma linha do tempo (timeline) dos principais eventos, descobertas ou etapas descritas nas fontes."
 
 ## Para Criação e Aplicação Prática:
 "Crie um esboço para uma apresentação de 10 minutos sobre [tópico], com estrutura de abertura, desenvolvimento (3 pontos principais com evidências) e conclusão."
+
 "Com base nessas fontes, gere 5 ideias criativas ou propostas de projetos inovadores que exploram as tendências e oportunidades mencionadas."
+
 "Transforme as principais informações destas fontes em um roteiro para um vídeo educativo ou podcast de 5 minutos, com uma linguagem dinâmica e envolvente."
  
  ## Para Revisão e Teste de Conhecimento:
 "Gere 10 perguntas de múltipla escolha com diferentes níveis de dificuldade (do fácil ao difícil) baseadas estritamente no conteúdo das fontes. Forneça o gabarito com a justificativa."
+
 "Crie um resumo em tópicos, um 'cheat sheet' (cola) com as definições, fórmulas ou dados mais cruciais para revisão rápida antes de uma prova ou reunião."
+
 "Pegue a informação mais desafiadora ou complexa destas fontes e me explique novamente, mas desta vez usando uma metáfora simples."
 
 ## Para Síntese e Compreensão Inicial:
 "Com base em todas as fontes carregadas, crie um resumo executivo com os 5 pontos mais importantes."
+
 "Elabore um FAQ (Perguntas Frequentes) que responda às dúvidas mais prováveis que um iniciante teria sobre este assunto."
+
+
 "Identifique e explique as 3 principais conexões ou temas que se repetem entre as diferentes fontes."
 
 ## Para Análise Aprofundada e Estudo:
 "Atue como um tutor. Explique o conceito de [insira um termo específico] para um iniciante, usando analogias e exemplos práticos encontrados nas fontes."
+
 "Crie um guia de estudo estruturado, organizando as informações mais importantes em módulos. Inclua os principais pontos de cada módulo e 2 perguntas para autoavaliação."
+
 "Elabore uma linha do tempo (timeline) dos principais eventos, descobertas ou etapas descritas nas fontes."
 
 ## Para Criação e Aplicação Prática:
 "Crie um esboço para uma apresentação de 10 minutos sobre [tópico], com estrutura de abertura, desenvolvimento (3 pontos principais com evidências) e conclusão."
+
 "Com base nessas fontes, gere 5 ideias criativas ou propostas de projetos inovadores que exploram as tendências e oportunidades mencionadas."
+
 "Transforme as principais informações destas fontes em um roteiro para um vídeo educativo ou podcast de 5 minutos, com uma linguagem dinâmica e envolvente."
 
 ## Para Revisão e Teste de Conhecimento:
 "Gere 10 perguntas de múltipla escolha com diferentes níveis de dificuldade (do fácil ao difícil) baseadas estritamente no conteúdo das fontes. Forneça o gabarito com a justificativa."
+
 "Crie um resumo em tópicos, um 'cheat sheet' (cola) com as definições, fórmulas ou dados mais cruciais para revisão rápida antes de uma prova ou reunião."
+
 "Pegue a informação mais desafiadora ou complexa destas fontes e me explique novamente, mas desta vez usando uma metáfora simples."
 
 ---
 
-## resumo estruturado: O sucesso em concursos e na vida pessoal é o resultado da integração harmônica entre a **clareza de propósito**, a **gestão da atenção** e o **domínio emocional**. A seguir, apresento um resumo consolidado das quatro obras, estruturado nos pilares fundamentais para uma preparação de alto rendimento:
+## resumo estruturado: 
+O sucesso em concursos e na vida pessoal é o resultado da integração harmônica entre a **clareza de propósito**, a **gestão da atenção** e o **domínio emocional**. A seguir, apresento um resumo consolidado das quatro obras, estruturado nos pilares fundamentais para uma preparação de alto rendimento:
 
 ### 1. O Fundamento: Comece pelo "Porquê"
 O ponto de partida para qualquer projeto duradouro deve ser o propósito. 
